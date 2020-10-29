@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/imt-Logo.jpg</file>
+    </qresource>
+</RCC>
